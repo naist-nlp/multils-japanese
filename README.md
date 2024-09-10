@@ -38,9 +38,9 @@ year={2024}
 
 ## Related Papers
 
-### [JaLeCoN](https://github.com/naist-nlp/jalecon), a Dataset of Japanese Lexical Complexity for Non-Native Readers.
+### [JaLeCoN](https://github.com/naist-nlp/jalecon), a Dataset of Japanese Lexical Complexity for Non-Native Readers
 
-[Paper](https://aclanthology.org/2023.bea-1.40)
+[Paper](https://aclanthology.org/2023.bea-1.40). The annotation was done with a slightly different scale and in a dense setting.
 
 ```
 @inproceedings{ide2023,
