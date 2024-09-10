@@ -1,0 +1,18 @@
+# Multilingual Lexical Simplification Pipeline (MLSP): Japanese Trial Data License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+We have used the following sources for contexts and their corresponding targets:
+
+* [山本 周五郎『季節のない街』](https://www.aozora.gr.jp/cards/001869/card57822.html) (work by Yamamoto Shugoro), a work available via 青空文庫 (Aozora Bunko), which is public domain: source for targets 各種の, 市電, 気にかけない
+* [https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_041](https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_041), a page from 消費者庁ウェブサイト (Consumer Affairs Agency website), which is licensed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/) (see [terms of use](https://www.caa.go.jp/terms_of_use/)): source for targets 旧, ロック, 直ちに
+* ["おかえりモネ"](https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A%E3%83%A2%E3%83%8D), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 募集し, ピックアップして, 掲載した
+* ["アンタッチャブルのシカゴマンゴ"](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3%E3%83%96%E3%83%AB%E3%81%AE%E3%82%B7%E3%82%AB%E3%82%B4%E3%83%9E%E3%83%B3%E3%82%B4), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets キレさせる, 諫める, コーナー
+* ["プルソニャック氏"](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BD%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF%E6%B0%8F), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 連れ戻す, 恩を売り, なおかつ
+* ["ラターシャ・ハーリンズ"](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%BA), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 繰り返し, 強盗被害, 考慮した
+* ["伝説 (リスト)"](https://ja.wikipedia.org/wiki/%E4%BC%9D%E8%AA%AC%20%28%E3%83%AA%E3%82%B9%E3%83%88%29), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 長大な, 標題, 書き添えられて
+* ["桃太郎伝説シリーズ"](https://ja.wikipedia.org/wiki/%E6%A1%83%E5%A4%AA%E9%83%8E%E4%BC%9D%E8%AA%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 馴染み深かった, 変更されて, 戦闘曲
+* ["藤崎竜"](https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E7%AB%9C), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 小物, 応用した, 随所
+* ["順序対"](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E5%AF%BE), an article from フリー百科事典『ウィキペディア（Wikipedia）』, which is licensed under the [Creative Commons Attribution-Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/): source for targets 再び, はじめ, または

@@ -1,0 +1,11 @@
+annotator	age	education_years	nonnative_languages	weekly_reading_hours	teaching_experience_years	weekly_teaching_hours
+ls_annotator_1	51	15	2	5	7.0	2
+ls_annotator_2	52	16	1	3	2.0	8
+ls_annotator_3	56	15	0	7	3.0	1
+ls_annotator_4	63	17	1	21	0.0	0
+ls_annotator_5	55	14	3	8	1.0	1
+ls_annotator_6	57	16	2	14	1.0	1
+ls_annotator_7	47	17	1	30	2.5	0
+ls_annotator_8	46	16	2	14	1.0	30
+ls_annotator_9	61	24	1	50	6.0	0
+ls_annotator_10	53	18	1	7	2.0	1

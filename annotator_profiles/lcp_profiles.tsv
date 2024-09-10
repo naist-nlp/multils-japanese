@@ -1,0 +1,11 @@
+annotator	jlpt_level	age	education_years	native_languages	nonnative_languages	weekly_reading_hours	has_studied_japanese_at_university	lives_in_japan	lived_in_japan_years
+lcp_annotator_1	N2	40.0	17.0	English	1.0	2.0	False	True	14.0
+lcp_annotator_2	(2009以前) 1	55.0	16.0	English	1.0	4.0	True	True	29.0
+lcp_annotator_3	(2009以前) 2	38.0	18.0	English	2.0	20.0	True	True	15.0
+lcp_annotator_4	N2	35.0	27.0	Portuguese, English	2.0	1.0	True	True	12.0
+lcp_annotator_5	N1	47.0	18.0	フランス語	2.0	20.0	True	True	23.0
+lcp_annotator_6	(2009以前) 1	45.0	23.0	French, English	2.0	2.0	True	True	20.0
+lcp_annotator_7	N2	53.0	16.0	English	2.0	2.0	False	True	29.0
+lcp_annotator_8	(2009以前) 1	36.0	17.0	English	1.0	2.0	False	True	10.0
+lcp_annotator_9	N1	33.0	17.0	バスク語、スペイン語	2.0	1.0	True	True	9.0
+lcp_annotator_10	N1	26.0	15.0	Swedish	2.0	3.0	True	True	5.5
