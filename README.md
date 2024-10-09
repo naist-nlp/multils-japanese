@@ -12,7 +12,7 @@ MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplifica
 
 Please use the Japanese data in [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub. This repository only provides additional information specific for the Japanese subset of MultiLS (MLSP2024) dataset.
 
-You can read a preprint of our upcoming paper (accepted to TSAR 2024) "[Difficult for Whom? A Study of Japanese Lexical Complexity](nohejl_etal_2024_difficult_for_whom.pdf)".
+You can read a preprint of our upcoming paper (accepted to TSAR 2024): [Difficult for Whom? A Study of Japanese Lexical Complexity](nohejl_etal_2024_difficult_for_whom.pdf).
 
 If you use the LS and LCP data or the data and information provided by this repository, please cite our papers:
 
