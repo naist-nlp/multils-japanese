@@ -14,9 +14,9 @@ Please get the data for all languages from the [MLSP2024](https://huggingface.co
 
 Please to read and cite the following papers:
 
-### MultiLS-Japanese: analysis and additional annotation 
+### MultiLS-Japanese: Analysis and Additional Annotation 
 
-Please, cite [this paper](https://arxiv.org/abs/2410.18567) (preprint, accepted to TSAR 2024), if you use the Japanese subset of MultiLS or the additional annotation:
+Please, cite [this paper](https://arxiv.org/abs/2410.18567) (preprint, accepted to TSAR 2024) if you use the Japanese subset of MultiLS or the additional annotation:
 
 ```
 @article{nohejl_etal_2024_difficult,
@@ -78,7 +78,7 @@ year={2024}
 }
 ```
 
-### Spanish and Catalan Datasets
+### MultiLS-SP/CA: Spanish and Catalan Datasets
 
 [Paper](https://arxiv.org/abs/2404.07814)
 
