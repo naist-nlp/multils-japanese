@@ -1,18 +1,30 @@
 # MultiLS-Japanese
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplification (LS) dataset for Japanese. This repository provides:
+MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplification (LS) dataset for Japanese.
 
-- LCP and LS [annotator profiles](annotator_profiles). Note that each instance in both trial and test data was annotated by the the same annotators.
-- [Unaggregated ratings](unaggregated_data) for LCP that can be merged with the Japanese dataset using the `id` column.
-- [Empty Excel templates](annotation_templates) used for annotation including our annotation guidelines and the exact questions we asked in the annotator profiles.
+This repository provides:
 
+1. Additional data for the **original annotation**, which was used to evaluate the MLSP 2024 shared task:
+    - [LCP](annotator_profiles/lcp_profiles.tsv) and [LS](annotator_profiles/ls_profiles.tsv) annotator profiles. Note that each instance in both trial and test data was annotated by the the same annotators.
+    - [Unaggregated trial](data/lcp_unaggregated_trial.tsv) and [test]((data/lcp_unaggregated_test.tsv)) ratings for LCP that can be merged with the Japanese dataset using the `id` column.
+    - [Empty Excel templates](annotation_templates) used for annotation including our annotation guidelines and the exact questions we asked in the annotator profiles.
 
-## The LS and LCP data
+2. **Non-Chinese/Korean L1 Replication** of the LCP trial set:
+    - [Annotator profiles](annotator_profiles/replication_lcp_profiles.tsv).
+    - [Ratings](data/replication_lcp_trial.tsv) (both unaggregated and aggregated values).
 
-Please get the data for all languages from the [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub. This `multils-japanese` repository only provides additional information specific for the Japanese subset of MultiLS (MLSP2024) dataset.
+3. **Chinese L1 Reannotation** of the LCP trial set:
+    - [Annotator profiles](annotator_profiles/chinese_l1_lcp_profiles.tsv).
+    - [Ratings](data/chinese_l1_lcp_trial.tsv) (both unaggregated and aggregated values).
 
-Please to read and cite the following papers:
+The last two trial set annotations were used for analysis in “Difficult for Whom? A Study of Japanese Lexical Complexity” ([Nohejl et al., 2024](https://arxiv.org/abs/2410.18567)). Only the original data was used for the MLSP shared task ([Shardlow et al., 2024](https://aclanthology.org/2024.bea-1.51)).
+
+## The LS and LCP Data
+
+Please get the data for all languages, including Japanese (original annotation), from the [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub. This `multils-japanese` repository only provides additional data specific for the Japanese subset of MultiLS (MLSP2024) dataset.
+
+## Relevant Papers
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
@@ -92,6 +104,13 @@ year={2024}
       primaryClass={cs.CL}
 }
 ```
+
+You may also be interested in Japanese lexical simplification datasets targeting native speakers (by different authors):
+
+- Controlled and Balanced Dataset for Japanese Lexical Simplification ([Kodaira et al., 2016](https://aclanthology.org/P16-3001)): [dataset](https://github.com/KodairaTomonori/EvaluationDataset)
+- Evaluation Dataset and System for Japanese Lexical Simplification ([Kajiwara and Yamamoto, 2015](http://www.aclweb.org/anthology/P15-3006): [dataset](https://www.jnlp.org/GengoHouse/snow/e4)
+
+
 
 ## License
 
