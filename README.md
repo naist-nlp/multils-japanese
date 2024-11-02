@@ -115,7 +115,7 @@ You may also be interested in Japanese lexical simplification datasets targeting
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. Please, cite [our work](https://arxiv.org/abs/2410.18567) if you use the data.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. Please, cite [our](https://arxiv.org/abs/2410.18567) [papers](https://aclanthology.org/2024.bea-1.51) if you use the data.
 
 See the sources and license information for [trial set](LICENSE_trial.md) and [test set](LICENSE_test.md) for details.
 
