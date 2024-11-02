@@ -24,12 +24,13 @@ The last two trial set annotations were used for analysis in “Difficult for Wh
 
 Please get the data for all languages, including Japanese (original annotation), from the [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub. This `multils-japanese` repository only provides additional data specific for the Japanese subset of MultiLS (MLSP2024) dataset.
 
-## Relevant Papers
+## Papers
+
+The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. You can learn more about it in the following papers. Please cite them if you use the data.
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
-Please, cite [this paper](https://arxiv.org/abs/2410.18567) (preprint, accepted to TSAR 2024) if you use the Japanese subset of MultiLS or the additional annotation:
-
+[Paper](https://arxiv.org/abs/2410.18567) (preprint, accepted to TSAR 2024)
 ```
 @article{nohejl_etal_2024_difficult,
   title = {Difficult for {{Whom}}? {{A Study}} of {{Japanese Lexical Complexity}}},
@@ -61,7 +62,7 @@ year={2024}
 }
 ```
 
-## Related Papers
+## Related Work
 
 ### [JaLeCoN](https://github.com/naist-nlp/jalecon), a Dataset of Japanese Lexical Complexity for Non-Native Readers
 
