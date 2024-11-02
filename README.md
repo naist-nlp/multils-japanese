@@ -10,11 +10,11 @@ This repository provides:
     - [Unaggregated trial](data/lcp_unaggregated_trial.tsv) and [test]((data/lcp_unaggregated_test.tsv)) ratings for LCP that can be merged with the Japanese dataset using the `id` column.
     - [Empty Excel templates](annotation_templates) used for annotation including our annotation guidelines and the exact questions we asked in the annotator profiles.
 
-2. **Non-Chinese/Korean L1 Replication** of the LCP trial set:
+2. **Non-Chinese/Korean L1 replication** of the LCP trial set:
     - [Annotator profiles](annotator_profiles/replication_lcp_profiles.tsv).
     - [Ratings](data/replication_lcp_trial.tsv) (both unaggregated and aggregated values).
 
-3. **Chinese L1 Reannotation** of the LCP trial set:
+3. **Chinese L1 reannotation** of the LCP trial set:
     - [Annotator profiles](annotator_profiles/chinese_l1_lcp_profiles.tsv).
     - [Ratings](data/chinese_l1_lcp_trial.tsv) (both unaggregated and aggregated values).
 
