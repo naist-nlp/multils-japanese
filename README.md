@@ -18,7 +18,7 @@ This repository provides:
     - [Annotator profiles](annotator_profiles/chinese_l1_lcp_profiles.tsv).
     - [Ratings](data/chinese_l1_lcp_trial.tsv) (both unaggregated and aggregated values).
 
-The last two trial set annotations were used for analysis in “Difficult for Whom? A Study of Japanese Lexical Complexity” ([Nohejl et al., 2024](https://arxiv.org/abs/2410.18567)). Only the original data was used for the MLSP shared task ([Shardlow et al., 2024](https://aclanthology.org/2024.bea-1.51)).
+The last two trial set annotations were used for analysis in “Difficult for Whom? A Study of Japanese Lexical Complexity” ([Nohejl et al., 2024](https://aclanthology.org/2024.tsar-1.8)). Only the original data was used for the MLSP shared task ([Shardlow et al., 2024](https://aclanthology.org/2024.bea-1.51)).
 
 ## The LS and LCP Data
 
@@ -30,13 +30,13 @@ The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuk
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
-[Paper](https://arxiv.org/abs/2410.18567) (preprint, accepted to TSAR 2024)
+[Paper](https://aclanthology.org/2024.tsar-1.8)
 ```
-@article{nohejl_etal_2024_difficult,
+@inproceedings{nohejl-etal-2024-difficult,
   title = {Difficult for {{Whom}}? {{A Study}} of {{Japanese Lexical Complexity}}},
   author = {Nohejl, Adam and Hayakawa, Akio and Ide, Yusuke and Watanabe, Taro},
-  year = {2024},  eprint={2410.18567}, archiveprefix = {arXiv}, primaryclass={cs.CL},
-  url = {http://arxiv.org/abs/2410.18567v1}, journal = {ArXiv preprint}, volume = {arXiv:2410.18567v1}
+  booktitle = "Proceedings of the Third Workshop on Text Simplification, Accessibility and Readability (TSAR 2024)",
+  year = {2024}, url = "https://aclanthology.org/2024.tsar-1.8",
 }
 ```
 
