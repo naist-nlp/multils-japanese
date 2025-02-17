@@ -1,5 +1,5 @@
 # MultiLS-Japanese
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplification (LS) dataset for Japanese.
 
@@ -115,9 +115,9 @@ You may also be interested in Japanese lexical simplification datasets targeting
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. Please, cite [our work](https://arxiv.org/abs/2410.18567) if you use the data.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Please, cite [our work](https://arxiv.org/abs/2410.18567) if you use the data.
 
 See the sources and license information for [trial set](LICENSE_trial.md) and [test set](LICENSE_test.md) for details.
 
-[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 
