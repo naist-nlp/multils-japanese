@@ -26,7 +26,7 @@ Please get the data for all languages, including Japanese (original annotation),
 
 ## Papers
 
-The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. You can learn more about it in the following papers. Please cite them if you use the data.
+The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. We are working on a paper dedicated to the dataset. In the mean time, please refer to the following papers and cite them when using the dataset.
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
