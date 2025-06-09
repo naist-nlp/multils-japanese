@@ -30,7 +30,7 @@ All annotated data is available exclusively via Hugging Face, not to leak it to 
 
 ## Papers
 
-The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. We are working on a paper dedicated to the dataset. In the mean time, please refer to the following papers and cite them when using the dataset.
+The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. **A journal paper about the dataset is scheduled for publication in December 2025:**
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
