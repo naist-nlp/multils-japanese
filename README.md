@@ -3,7 +3,7 @@
 
 MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplification (LS) dataset for Japanese.
 
-This repository provides:
+This GitHub repository provides additional data for MultiLS-Japanese. Check [The LS and LCP data](#the-ls-and-lcp-data) below for the main dataset.
 
 1. Additional data for the **original annotation**, which was used to evaluate the MLSP 2024 shared task:
     - [LCP](annotator_profiles/lcp_profiles.tsv) and [LS](annotator_profiles/ls_profiles.tsv) annotator profiles. Note that each instance in both trial and test data was annotated by the the same annotators.
@@ -22,15 +22,29 @@ The last two trial set annotations were used for analysis in “Difficult for Wh
 
 ## The LS and LCP Data
 
-[MultiLS-Japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese) (only Japanese language) with extended annotation fields on Hugging Face Hub.
+- Full Japanese data: [MultiLS-Japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese) (only Japanese language) with extended annotation fields on Hugging Face Hub.
 
-Please get the data for all 10 languages, including Japanese (original annotation), from the [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub. This `multils-japanese` repository only provides additional data specific for the Japanese subset of MultiLS (MLSP2024) dataset.
+- Basic data for 10 languages (including Japanese): [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub.
 
-All annotated data is available exclusively via Hugging Face, not to leak it to the open web, where it can contaminate LLM training data.
+All annotated data is available exclusively via Hugging Face not to leak it to the open web, where it can contaminate LLM training data.
 
 ## Papers
 
-The MultiLS-Japanese dataset was created by Adam Nohejl, Akio Haykawa, and Yusuke Ide. **A journal paper about the dataset is scheduled for publication in December 2025.**
+### MultiLS-Japanese: Dataset Creation, Details and Baselines
+
+[Paper](https://doi.org/10.5715/jnlp.32.1129)
+```
+@article{nohejl2025jnlp,
+  title={A Japanese Dataset and Efficient Multilingual LLM-Based Methods for Lexical Simplification and Lexical Complexity Prediction},
+  author={Nohejl, Adam and Hayakawa, Akio and Ide, Yusuke and Watanabe, Taro},
+  journal={Journal of Natural Language Processing},
+  volume={32},
+  number={4},
+  pages={1129--1188},
+  year={2025},
+  doi={10.5715/jnlp.32.1129}
+}
+```
 
 ### MultiLS-Japanese: Analysis and Additional Annotation 
 
