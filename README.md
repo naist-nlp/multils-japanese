@@ -22,9 +22,9 @@ The last two trial set annotations were used for analysis in “Difficult for Wh
 
 ## The LS and LCP Data
 
-- Full Japanese data: [MultiLS-Japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese) (only Japanese language) with extended annotation fields on Hugging Face Hub.
+- Full Japanese data: [MultiLS-Japanese](https://huggingface.co/datasets/naist-nlp/multils-japanese) with extended annotation fields on Hugging Face Hub.
 
-- Basic data for 10 languages (including Japanese): [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub.
+- Basic data for 10 languages: [MLSP2024](https://huggingface.co/datasets/MLSP2024/MLSP2024) dataset on Hugging Face Hub, including Japanese data but without the extended annotation,
 
 All annotated data is available exclusively via Hugging Face not to leak it to the open web, where it can contaminate LLM training data.
 
