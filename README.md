@@ -3,7 +3,7 @@
 
 MultiLS-Japanese is a lexical complexity prediction (LCP) and lexical simplification (LS) dataset for Japanese.
 
-This GitHub repository provides additional data for MultiLS-Japanese. Check [The LS and LCP data](#the-ls-and-lcp-data) below for the main dataset.
+This GitHub repository provides additional data for MultiLS-Japanese. For the main dataset, check [The LS and LCP Data](#the-ls-and-lcp-data) section below.
 
 1. Additional data for the **original annotation**, which was used to evaluate the MLSP 2024 shared task:
     - [LCP](annotator_profiles/lcp_profiles.tsv) and [LS](annotator_profiles/ls_profiles.tsv) annotator profiles. Note that each instance in both trial and test data was annotated by the the same annotators.
