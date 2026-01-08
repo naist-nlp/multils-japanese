@@ -32,7 +32,7 @@ All annotated data is available exclusively via Hugging Face not to leak it to t
 
 ### MultiLS-Japanese: Dataset Creation, Details and Baselines
 
-[Paper](https://doi.org/10.5715/jnlp.32.1129)
+[Paper](https://doi.org/10.5715/jnlp.32.1129) 👈 Please cite this if you use the MultiLS-Japanese dataset.
 ```
 @article{nohejl2025jnlp,
   title={A Japanese Dataset and Efficient Multilingual LLM-Based Methods for Lexical Simplification and Lexical Complexity Prediction},
