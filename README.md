@@ -7,7 +7,7 @@ This GitHub repository provides additional data for MultiLS-Japanese. For the ma
 
 1. Additional data for the **original annotation**, which was used to evaluate the MLSP 2024 shared task:
     - [LCP](annotator_profiles/lcp_profiles.tsv) and [LS](annotator_profiles/ls_profiles.tsv) annotator profiles. Note that each instance in both trial and test data was annotated by the the same annotators.
-    - [Unaggregated trial](data/lcp_unaggregated_trial.tsv) and [test]((data/lcp_unaggregated_test.tsv)) ratings for LCP that can be merged with the Japanese dataset using the `id` column.
+    - [Unaggregated trial](data/lcp_unaggregated_trial.tsv) and [test](data/lcp_unaggregated_test.tsv) ratings for LCP that can be merged with the Japanese dataset using the `id` column.
     - [Empty Excel templates](annotation_templates) used for annotation including our annotation guidelines and the exact questions we asked in the annotator profiles.
 
 2. **Non-Chinese/Korean L1 replication** of the LCP trial set:
